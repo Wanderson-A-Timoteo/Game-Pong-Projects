@@ -1,4 +1,4 @@
-#  <align="center"> Game Pong
+# <p align="center">  &nbsp; Google Glass &nbsp;   </p>
 O Jogo Pong foi desenvolvido na Plataforma Scratch, ele foi baseado no classico jogo Ping-Pong. <br>
 Ele foi criado como projeto acadêmico, com o objetivo de entretenimento para crianças a partir de 5 anos de idade, pois requer coordenação motora para controlar a raquete (carro), por meio do mouse, sem deixar a bolinha azul cair e bater na parte vermelha do chão, o gamer precisará acertar a bolinha azul nos objetos que aparecem durante o jogo para somar pontos, e a medida que os pontos aumentam, também muda a velocidade da bolinha.
 
