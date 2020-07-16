@@ -1,12 +1,15 @@
-# Pong-Game
+#  <align="center"> Game Pong
 O Jogo Pong foi desenvolvido na Plataforma Scratch, ele foi baseado no classico jogo Ping-Pong. <br>
-Ele foi criado como projeto acadêmico, com o objetivo de entretenimento para crianças a partir de 5 anos de idade, pois requer coordenação motora para controlar a raquete (carro), por meio do mouse.
+Ele foi criado como projeto acadêmico, com o objetivo de entretenimento para crianças a partir de 5 anos de idade, pois requer coordenação motora para controlar a raquete (carro), por meio do mouse, sem deixar a bolinha azul cair e bater na parte vermelha do chão, o gamer precisará acertar a bolinha azul nos objetos que aparecem durante o jogo para somar pontos, e a medida que os pontos aumentam, também muda a velocidade da bolinha.
 
 # Pré-vizualização do Game
 
 ![](https://github.com/Wanderson-A-Timoteo/Pong-Game/blob/master/Interface-Game-Pong.jpg)
 
-Para baixar o aplicativo do Scratch [Clique aqui](https://scratch.mit.edu/download).
+# Para analisar o bloco de código do game
+
+Faça o download do aplicativo do Scratch [Clique aqui](https://scratch.mit.edu/download).<br>
+
 # Direitos de uso
 Você tem todo o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso a todo o conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado por Wanderson A. Timóteo. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
 # Acessar a plataforma Scratch para analisar o game
