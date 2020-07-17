@@ -2,7 +2,7 @@
 O Jogo Pong foi desenvolvido na Plataforma Scratch, ele foi baseado no classico jogo Ping-Pong. <br>
 Foi criado como projeto acadêmico, com o objetivo de entretenimento para crianças a partir de 5 anos de idade, pois requer coordenação motora para controlar a raquete (carro), por meio do mouse, sem deixar a bolinha azul cair e bater na parte vermelha do chão, o gamer precisará acertar a bolinha azul nos objetos que aparecem durante o jogo para somar pontos, e a medida que os pontos aumentam, também muda a velocidade da bolinha.
 
-#Sobre o Scratch
+# Sobre o Scratch
 
 Com o Scratch, você pode programar seus próprios jogos, animações e histórias interativas — e compartilhar suas criações com outras pessoas na comunidade on-line.
 <br>
@@ -10,19 +10,21 @@ O Scratch ajuda os jovens a aprender a pensar criativamente, raciocinar sistemat
 <br>
 O Scratch é um projeto do grupo Lifelong Kindergarten no Media Lab do MIT. Ele é disponibilizado gratuitamente.
 
-# Pré-vizualização do Game
+# Pré-vizualização do Game Pong
 
 ![](https://github.com/Wanderson-A-Timoteo/Pong-Game/blob/master/Interface-Game-Pong.jpg)
+
+# Jogue agora mesmo o Game Pong
+[Clique aqui](https://scratch.mit.edu/projects/297173471/)
 
 # Para analisar o bloco de código do game
 
 * Faça o download do aplicativo do Scratch [Clique aqui](https://scratch.mit.edu/download).<br>
-* Faça o download do projeto Game Pong e importe no aplicativo Scratch o arquivo 
+* Faça o download do projeto Game Pong e importe no aplicativo Scratch o arquivo [Jogo_Pong.sb]
 
 # Direitos de uso
 Você tem todo o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso a todo o conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado por Wanderson A. Timóteo. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
-# Acessar a plataforma Scratch para analisar o game
-https://scratch.mit.edu/projects/297173471/
+
 
 
 # Scratch-blocks
