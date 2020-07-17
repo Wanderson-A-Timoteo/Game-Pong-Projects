@@ -33,17 +33,17 @@ Você tem todo o direito de usar esse material para seu próprio aprendizado. Pr
 ![](https://cloud.githubusercontent.com/assets/747641/15227351/c37c09da-1854-11e6-8dc7-9a298f2b1f01.jpg)
 
 ## Introdução
-Scratch Blocks é uma bifurcação do projeto [Blockly] (https://github.com/google/blockly) do Google que fornece uma especificação de projeto e uma base de código para a criação de interfaces de computação criativas. Juntamente com a [Scratch Virtual Machine (VM)] (https://github.com/LLK/scratch-vm), essa base de código permite o rápido design e desenvolvimento de interfaces de programação visual. Ao contrário de [Blockly] (https://github.com/google/blockly), o Scratch Blocks não usa [geradores de código] (https://developers.google.com/blockly/guides/configure/web/code-generators) , mas utiliza a [Scratch Virtual Machine] (https://github.com/LLK/scratch-vm) para criar ambientes de programação interativos e altamente dinâmicos.
+Scratch Blocks é uma bifurcação do projeto [Blockly](https://github.com/google/blockly) do Google que fornece uma especificação de projeto e uma base de código para a criação de interfaces de computação criativas. Juntamente com a [Scratch Virtual Machine (VM)] (https://github.com/LLK/scratch-vm), essa base de código permite o rápido design e desenvolvimento de interfaces de programação visual. Ao contrário de [Blockly] (https://github.com/google/blockly), o Scratch Blocks não usa [geradores de código](https://developers.google.com/blockly/guides/configure/web/code-generators) , mas utiliza a [Scratch Virtual Machine](https://github.com/LLK/scratch-vm) para criar ambientes de programação interativos e altamente dinâmicos.
 
 * Este projeto está em desenvolvimento ativo e deve ser considerado uma "visualização do desenvolvedor" no momento. *
 
 ## Dois tipos de blocos
 ![](https://cloud.githubusercontent.com/assets/747641/15255731/dad4d028-190b-11e6-9c16-8df7445adc96.png)
 
-O Scratch Blocks reúne duas "gramáticas" de programação diferentes que a Equipe do Scratch projetou e continuou a refinar na última década. A gramática padrão [Scratch] (https://scratch.mit.edu) usa blocos que se encaixam verticalmente, como os tijolos LEGO. Para o nosso software [ScratchJr] (https://scratchjr.org), destinado a crianças mais novas, desenvolvemos blocos que são rotulados com ícones em vez de palavras e se encaixam horizontalmente e não verticalmente. Descobrimos que a gramática horizontal não é apenas mais amigável para programadores iniciantes, mas também é mais adequada para dispositivos com telas pequenas.
+O Scratch Blocks reúne duas "gramáticas" de programação diferentes que a Equipe do Scratch projetou e continuou a refinar na última década. A gramática padrão [Scratch](https://scratch.mit.edu) usa blocos que se encaixam verticalmente, como os tijolos LEGO. Para o nosso software [ScratchJr](https://scratchjr.org), destinado a crianças mais novas, desenvolvemos blocos que são rotulados com ícones em vez de palavras e se encaixam horizontalmente e não verticalmente. Descobrimos que a gramática horizontal não é apenas mais amigável para programadores iniciantes, mas também é mais adequada para dispositivos com telas pequenas.
 
 ## Documentação
-O guia "introdução", incluindo [FAQ] (https://scratch.mit.edu/developers#faq) e [documentação do design] (https://github.com/LLK/scratch-blocks/wiki/Design) pode pode ser encontrado no [wiki] (https://github.com/LLK/scratch-blocks/wiki).
+O guia "introdução", incluindo [FAQ](https://scratch.mit.edu/developers#faq) e [documentação do design](https://github.com/LLK/scratch-blocks/wiki/Design) pode pode ser encontrado no [wiki](https://github.com/LLK/scratch-blocks/wiki).
 
 ## Donativos
-Fornecemos [Scratch] (https://scratch.mit.edu) gratuitamente e queremos mantê-lo assim! Considere fazer uma [doação] (https://secure.donationpay.org/scratchfoundation/) para apoiar nossos esforços contínuos de engenharia, design, comunidade e desenvolvimento de recursos. Doações de qualquer tamanho são apreciadas. Obrigado!
+Fornecemos [Scratch](https://scratch.mit.edu) gratuitamente e queremos mantê-lo assim! Considere fazer uma [doação](https://secure.donationpay.org/scratchfoundation/) para apoiar nossos esforços contínuos de engenharia, design, comunidade e desenvolvimento de recursos. Doações de qualquer tamanho são apreciadas. Obrigado!
