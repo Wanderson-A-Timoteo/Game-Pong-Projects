@@ -17,10 +17,10 @@ O Scratch é um projeto do grupo Lifelong Kindergarten no Media Lab do MIT. Ele 
 # Jogue agora mesmo o Game Pong
 [Clique aqui](https://scratch.mit.edu/projects/297173471/)
 
-# Para analisar o bloco de código do game
+# Para analisar os blocos de código do Game Pong
 
 * Faça o download do aplicativo do Scratch [Clique aqui](https://scratch.mit.edu/download).<br>
-* Faça o download do projeto Game Pong e importe no aplicativo Scratch o arquivo [Jogo_Pong.sb]
+* Faça o download do projeto Game Pong e importe no aplicativo Scratch o arquivo Jogo_Pong.sb
 
 # Direitos de uso
 Você tem todo o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso a todo o conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado por Wanderson A. Timóteo. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
