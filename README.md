@@ -1,6 +1,14 @@
-# <p align="center">  &nbsp; Google Glass &nbsp;   </p>
+# <p align="center">  &nbsp; Game Pong &nbsp;   </p>
 O Jogo Pong foi desenvolvido na Plataforma Scratch, ele foi baseado no classico jogo Ping-Pong. <br>
-Ele foi criado como projeto acadêmico, com o objetivo de entretenimento para crianças a partir de 5 anos de idade, pois requer coordenação motora para controlar a raquete (carro), por meio do mouse, sem deixar a bolinha azul cair e bater na parte vermelha do chão, o gamer precisará acertar a bolinha azul nos objetos que aparecem durante o jogo para somar pontos, e a medida que os pontos aumentam, também muda a velocidade da bolinha.
+Foi criado como projeto acadêmico, com o objetivo de entretenimento para crianças a partir de 5 anos de idade, pois requer coordenação motora para controlar a raquete (carro), por meio do mouse, sem deixar a bolinha azul cair e bater na parte vermelha do chão, o gamer precisará acertar a bolinha azul nos objetos que aparecem durante o jogo para somar pontos, e a medida que os pontos aumentam, também muda a velocidade da bolinha.
+
+#Sobre o Scratch
+
+Com o Scratch, você pode programar seus próprios jogos, animações e histórias interativas — e compartilhar suas criações com outras pessoas na comunidade on-line.
+<br>
+O Scratch ajuda os jovens a aprender a pensar criativamente, raciocinar sistematicamente, e trabalhar em grupo — habilidades essenciais para a vida no século 21.
+<br>
+O Scratch é um projeto do grupo Lifelong Kindergarten no Media Lab do MIT. Ele é disponibilizado gratuitamente.
 
 # Pré-vizualização do Game
 
@@ -8,13 +16,13 @@ Ele foi criado como projeto acadêmico, com o objetivo de entretenimento para cr
 
 # Para analisar o bloco de código do game
 
-Faça o download do aplicativo do Scratch [Clique aqui](https://scratch.mit.edu/download).<br>
+* Faça o download do aplicativo do Scratch [Clique aqui](https://scratch.mit.edu/download).<br>
+* Faça o download do projeto Game Pong e importe no aplicativo Scratch o arquivo 
 
 # Direitos de uso
 Você tem todo o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso a todo o conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado por Wanderson A. Timóteo. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
 # Acessar a plataforma Scratch para analisar o game
 https://scratch.mit.edu/projects/297173471/
-
 
 
 # Scratch-blocks
@@ -27,13 +35,13 @@ Scratch Blocks é uma bifurcação do projeto [Blockly] (https://github.com/goog
 
 * Este projeto está em desenvolvimento ativo e deve ser considerado uma "visualização do desenvolvedor" no momento. *
 
-## Two Types of Blocks
-![](https://cloud.githubusercontent.com/assets/747641/15255731/dad4d028-190b-11e6-9c16-8df7445adc96.png)
+## Dois tipos de blocos
+! [] (https://cloud.githubusercontent.com/assets/747641/15255731/dad4d028-190b-11e6-9c16-8df7445adc96.png)
 
-Scratch Blocks brings together two different programming "grammars" that the Scratch Team has designed and continued to refine over the past decade. The standard [Scratch](https://scratch.mit.edu) grammar uses blocks that snap together vertically, much like LEGO bricks. For our [ScratchJr](https://scratchjr.org) software, intended for younger children, we developed blocks that are labelled with icons rather than words, and snap together horizontally rather than vertically. We have found that the horizontal grammar is not only friendlier for beginning programmers but also better suited for devices with small screens.
+O Scratch Blocks reúne duas "gramáticas" de programação diferentes que a Equipe do Scratch projetou e continuou a refinar na última década. A gramática padrão [Scratch] (https://scratch.mit.edu) usa blocos que se encaixam verticalmente, como os tijolos LEGO. Para o nosso software [ScratchJr] (https://scratchjr.org), destinado a crianças mais novas, desenvolvemos blocos que são rotulados com ícones em vez de palavras e se encaixam horizontalmente e não verticalmente. Descobrimos que a gramática horizontal não é apenas mais amigável para programadores iniciantes, mas também é mais adequada para dispositivos com telas pequenas.
 
-## Documentation
-The "getting started" guide including [FAQ](https://scratch.mit.edu/developers#faq) and [design documentation](https://github.com/LLK/scratch-blocks/wiki/Design) can be found in the [wiki](https://github.com/LLK/scratch-blocks/wiki).
+## Documentação
+O guia "introdução", incluindo [FAQ] (https://scratch.mit.edu/developers#faq) e [documentação do design] (https://github.com/LLK/scratch-blocks/wiki/Design) pode pode ser encontrado no [wiki] (https://github.com/LLK/scratch-blocks/wiki).
 
-## Donate
-We provide [Scratch](https://scratch.mit.edu) free of charge, and want to keep it that way! Please consider making a [donation](https://secure.donationpay.org/scratchfoundation/) to support our continued engineering, design, community, and resource development efforts. Donations of any size are appreciated. Thank you!
+## Donativos
+Fornecemos [Scratch] (https://scratch.mit.edu) gratuitamente e queremos mantê-lo assim! Considere fazer uma [doação] (https://secure.donationpay.org/scratchfoundation/) para apoiar nossos esforços contínuos de engenharia, design, comunidade e desenvolvimento de recursos. Doações de qualquer tamanho são apreciadas. Obrigado!
