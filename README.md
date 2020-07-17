@@ -38,7 +38,7 @@ Scratch Blocks é uma bifurcação do projeto [Blockly] (https://github.com/goog
 * Este projeto está em desenvolvimento ativo e deve ser considerado uma "visualização do desenvolvedor" no momento. *
 
 ## Dois tipos de blocos
-! [] (https://cloud.githubusercontent.com/assets/747641/15255731/dad4d028-190b-11e6-9c16-8df7445adc96.png)
+![](https://cloud.githubusercontent.com/assets/747641/15255731/dad4d028-190b-11e6-9c16-8df7445adc96.png)
 
 O Scratch Blocks reúne duas "gramáticas" de programação diferentes que a Equipe do Scratch projetou e continuou a refinar na última década. A gramática padrão [Scratch] (https://scratch.mit.edu) usa blocos que se encaixam verticalmente, como os tijolos LEGO. Para o nosso software [ScratchJr] (https://scratchjr.org), destinado a crianças mais novas, desenvolvemos blocos que são rotulados com ícones em vez de palavras e se encaixam horizontalmente e não verticalmente. Descobrimos que a gramática horizontal não é apenas mais amigável para programadores iniciantes, mas também é mais adequada para dispositivos com telas pequenas.
 
